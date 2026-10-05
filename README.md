@@ -5,6 +5,6 @@ Como se especifica en las instrucciones de las actividades, todas las correspond
 
 De este modo, para la actividad 2.2 sobre Arquitectura Front-end, el contenido correspondiente se ubicará en el archivo markdown "actividad_2_2.md".
 
-La actividad 2.3 sobre Rastreador de Memoria se ubicará en el archivo markdown "actividad_2_2.md".
+La actividad 2.3 sobre Rastreador de Memoria se ubicará en el archivo markdown "actividad_2_3.md".
 
 Otras actividades de la unidad 2 se recogerán en otros archivos del repositorio, especificándose cuáles serán cuando corresponda.
