@@ -10,4 +10,4 @@
 | Log F | Error | Se ejecuta el log antes de declararse la variable. Al ser declarada con let no se ha elevado, produciéndose error al intentar acceder a una variable antes de ser declarada. |
 
 **Conclusión crítica**
-El uso de var tiene un comportamiento impredecible dado su ámbito y el hoisting, provocando que los valores de sus variables puedan recibirlas otras distintas que no deberían, lo que disminuye el control sobre las variables necesario para proyectos grandes.
+El uso de var tiene un comportamiento impredecible dado su ámbito y el hoisting, provocando que los valores de sus variables puedan recibirlas otras distintas, disminuyendo el control sobre las variables necesario para proyectos grandes.
