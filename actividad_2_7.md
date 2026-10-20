@@ -34,6 +34,9 @@ El error está en el operador del resto, que tras % 2 se coloca sólo un igual q
 
 El error sucede al utilizar parámetros en la función procesarDatos, ya que se ejecuta un método callback que recibe un dato "dat" que no se ha definido. Y al llamar a dicha función en la función, no realiza la operación al no existir esa variable. Se sustituye por "datos" y ya se devuelven los datos en el log.
 
+Aquí la captura del error detectado con los breakpoints
+![](/Screenshots/Act2.7BreakpointView.png)
+
 
 **Ejercicio 8**
 
