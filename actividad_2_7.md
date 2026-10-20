@@ -45,7 +45,7 @@ Salta error porque la variable msj que imprime el mensaje no está definida. Err
 
 **Ejercicio 9**
 
-La causa del fallo es que el valor de descuento debe expresarse con un número entre 0 y 1, aplicándose así directamente el porcentaje al cálculo (por eso el primer log devuelve 80 si es 0.2, el 20% de 100, mientras que el segundo devuelve -5900 porque al calcular el porcentaje que después restará multiplca 100 * 60, de acuerdo a la revisión de pasos intermedios con los breakpoints). Para que el segundo log no devuelva el resultado incoherente, el valor de 60 debería 0.6.
+La causa del fallo es que el valor de descuento debe expresarse con un número entre 0 y 1, aplicándose así directamente el porcentaje al cálculo (por eso el primer log devuelve 80 si es 0.2, el 20% de 100, mientras que el segundo devuelve -5900 porque al calcular el porcentaje que después restará multiplca 100 * 60, de acuerdo a la revisión de pasos intermedios con los breakpoints). Para que el segundo log no devuelva el resultado incoherente, el valor de 60 debería ser 0.6, calculano así el 60% de descuento.
 
 
 
