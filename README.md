@@ -7,4 +7,6 @@ De este modo, para la actividad 2.2 sobre Arquitectura Front-end, el contenido c
 
 La actividad 2.3 sobre Rastreador de Memoria se ubicará en el archivo markdown "actividad_2_3.md".
 
+La actividad 2.7 Broken Code se puede encontrar en los archivos "actividad_2_7.md" y "actividad_2_7.js".
+
 Otras actividades de la unidad 2 se recogerán en otros archivos del repositorio, especificándose cuáles serán cuando corresponda.
